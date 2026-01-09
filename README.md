@@ -2,7 +2,7 @@
 
 ## 🚀 Backend Engineer | DevOps | Data Science
 
-Estudiante de Ingeniería de Sistemas en Universidad del Norte, especializado en desarrollo backend, infraestructura cloud y ciencia de datos. Apasionado por crear soluciones escalables y eficientes.
+Estudiante de Ingeniería de Sistemas en Universidad del Norte, especializado en infraestructura cloud, devops y ciencia de datos. Apasionado por crear soluciones escalables y eficientes.
 
 ---
 
@@ -26,8 +26,7 @@ Estudiante de Ingeniería de Sistemas en Universidad del Norte, especializado en
 - Desarrollo de modelos de machine learning supervisados y no supervisados
 - Pipelines de procesamiento de datos (ETL/ELT)
 - Feature engineering y análisis exploratorio
-- Clustering y análisis geoespacial
-- Despliegue de modelos en producción
+- Clustering y análisis de datos
 
 ---
 
@@ -84,8 +83,8 @@ Desarrollo de APIs backend con integración de modelos de IA, implementando arqu
 
 Actualmente expandiendo conocimientos en:
 - MLOps y despliegue de modelos de ML en producción
-- Arquitecturas serverless y cloud-native
-- Kubernetes avanzado y service mesh
+- Arquitecturas y soluciones cloud-native
+- Kubernetes avanzado
 - Big Data Engineering
 
 ---
