@@ -36,7 +36,7 @@ Estudiante de Ingeniería de Sistemas en Universidad del Norte, especializado en
 `Python` `Java` `SQL` `Bash/Shell`
 
 **Backend & APIs:**  
-`FastAPI` `RESTful APIs` `Microservicios`
+`FastAPI` `RESTful APIs` 
 
 **Bases de Datos:**  
 `MySQL` `SQL Server` `MongoDB` `Supabase`
