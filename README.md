@@ -89,4 +89,4 @@ Actualmente expandiendo conocimientos en:
 
 ---
 
-⭐️ *La mayoría de mis proyectos son privados o parte de colaboraciones académicas/empresariales. Si estás interesado en conocer más detalles sobre mi trabajo, no dudes en contactarme.*
+⭐️ *La mayoría de mis proyectos son privados o parte de colaboraciones académicas. Si estás interesado en conocer más detalles sobre mi trabajo, no dudes en contactarme.*
