@@ -9,7 +9,7 @@ Estudiante de Ingeniería de Sistemas en Universidad del Norte, especializado en
 ## 💼 Áreas de Experiencia
 
 ### ☁️ DevOps & Cloud Infrastructure
-- Diseño y mantenimiento de clústeres Kubernetes en entornos de producción
+- Diseño y mantenimiento de cluster Kubernetes 
 - Implementación de pipelines CI/CD con GitHub Actions
 - Administración de infraestructura cloud (AWS, GCP)
 - Automatización de despliegues con Docker y Terraform
