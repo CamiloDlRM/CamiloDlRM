@@ -1,92 +1,107 @@
-# 👋 Hola, soy Camilo De La Rosa
+# Hola, soy Camilo De La Rosa
 
-## 🚀 Backend Engineer | DevOps | Data Science
+Backend Engineer · DevOps · Data Science
+Estudiante de Ingeniería de Sistemas — Universidad del Norte
 
-Estudiante de Ingeniería de Sistemas en Universidad del Norte, especializado en infraestructura cloud, devops y ciencia de datos. Apasionado por crear soluciones escalables y eficientes.
-
----
-
-## 💼 Áreas de Experiencia
-
-### ☁️ DevOps & Cloud Infrastructure
-- Diseño y mantenimiento de cluster Kubernetes 
-- Implementación de pipelines CI/CD con GitHub Actions
-- Administración de infraestructura cloud (AWS, GCP)
-- Automatización de despliegues con Docker y Terraform
-- Gestión de certificados SSL y configuración de dominios
-
-### 🔧 Backend Development
-- Desarrollo de APIs RESTful con Python (FastAPI)
-- Arquitectura hexagonal y diseño de microservicios
-- Integración con bases de datos SQL y NoSQL
-- Desarrollo de sistemas de hosting automatizado
-- Implementación de servicios escalables y eficientes
-
-### 📊 Data Science & Machine Learning
-- Desarrollo de modelos de machine learning supervisados y no supervisados
-- Pipelines de procesamiento de datos (ETL/ELT)
-- Feature engineering y análisis exploratorio
-- Clustering y análisis de datos
+Trabajo principalmente en **infraestructura cloud, DevOps y backend**, con interés en sistemas escalables, automatización y uso práctico de datos. Me gusta entender cómo funcionan las cosas por dentro y construir soluciones que realmente se puedan operar en producción.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Áreas de experiencia
 
-**Lenguajes:**  
-`Python` `Java` `SQL` `Bash/Shell`
+### DevOps & Cloud Infrastructure
 
-**Backend & APIs:**  
-`FastAPI` `RESTful APIs` 
+* Diseño y administración de clústeres Kubernetes
+* Implementación de pipelines CI/CD con GitHub Actions
+* Gestión de infraestructura en AWS y GCP
+* Automatización de despliegues con Docker y Terraform
+* Configuración de dominios, certificados SSL y networking básico
 
-**Bases de Datos:**  
-`MySQL` `SQL Server` `MongoDB` `Supabase`
+### Backend Development
 
-**DevOps & Cloud:**  
-`Docker` `Kubernetes` `GitHub Actions` `Terraform` `AWS` `GCP`
+* Desarrollo de APIs REST con Python (FastAPI)
+* Arquitectura de microservicios y principios de diseño limpio
+* Integración con bases de datos SQL y NoSQL
+* Desarrollo de sistemas backend orientados a despliegue automático
+* Construcción de servicios escalables y mantenibles
 
-**Data Science:**  
-`Scikit-learn` `Pandas` `NumPy` `Google Colab`
+### Data Science & Machine Learning
 
-**Herramientas:**  
-`Git` `Linux` `Power BI` `Coolify`
-
----
-
-## 🎯 Proyectos Destacados
-
-### Infraestructura Kubernetes para Educación
-Configuración y despliegue de clúster Kubernetes multi-nodo para entornos de enseñanza, incluyendo preparación de servidores, configuración de seguridad y despliegue de aplicaciones web en producción.
-
-### Plataforma de Hosting Automatizado
-Sistema de despliegue automático de proyectos académicos utilizando Python y herramientas de containerización, con administración centralizada de dominios y certificados SSL.
-
-### Pipelines CI/CD Enterprise
-Diseño e implementación de pipelines de integración y despliegue continuo, incluyendo automatización de pruebas, análisis de seguridad y gestión de múltiples entornos (desarrollo, staging, producción).
-
-### Machine Learning para Optimización de Recursos
-Desarrollo de modelos de clustering para análisis de datos gubernamentales, incluyendo procesamiento de datasets masivos y visualización de patrones geoespaciales.
-
-### Backend con IA Integrada
-Desarrollo de APIs backend con integración de modelos de IA, implementando arquitectura escalable con Python, FastAPI y servicios cloud.
+* Desarrollo de modelos de machine learning supervisados y no supervisados
+* Construcción de pipelines de datos (ETL / ELT)
+* Análisis exploratorio y feature engineering
+* Técnicas de clustering y análisis de datos
 
 ---
 
-## 📫 Contacto
+## Stack tecnológico
 
-- 📧 Email: camilodelarosamovilla@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/camilo-de-la-rosa-movilla-7824ab318](https://linkedin.com/in/camilo-de-la-rosa-movilla-7824ab318)
-- 📍 Ubicación: Barranquilla, Colombia
+**Lenguajes**
+Python · Java · SQL · Bash
+
+**Backend & APIs**
+FastAPI · REST
+
+**Bases de datos**
+MySQL · SQL Server · MongoDB · Supabase
+
+**DevOps & Cloud**
+Docker · Kubernetes · GitHub Actions · Terraform · AWS · GCP
+
+**Data Science**
+Scikit-learn · Pandas · NumPy · Google Colab
+
+**Herramientas**
+Git · Linux · Power BI · Coolify
 
 ---
 
-## 📚 Aprendizaje Continuo
+## Proyectos destacados
 
-Actualmente expandiendo conocimientos en:
-- MLOps y despliegue de modelos de ML en producción
-- Arquitecturas y soluciones cloud-native
-- Kubernetes avanzado
-- Big Data Engineering
+### Infraestructura Kubernetes para entornos educativos
+
+Diseño y despliegue de un clúster Kubernetes multi-nodo para uso académico, incluyendo configuración de servidores, aspectos básicos de seguridad y despliegue de aplicaciones web en producción.
+
+### Infraestructura cloud como código con Terraform (Critical_Scanning: https://github.com/CamiloDlRM/Critical_Scanning.git )
+
+Diseño e implementación de infraestructura en AWS utilizando **Terraform**, siguiendo el enfoque de *Infrastructure as Code*.
+Incluye definición de VPC, subredes públicas y privadas, gateways, reglas de red y componentes base de observabilidad, con configuración reproducible y versionada.
+
+### Plataforma de hosting automatizado (testing_hosting: https://virtual.roblehosting.site )
+
+Sistema para el despliegue automático de proyectos académicos usando Python y contenedores, con gestión centralizada de dominios y certificados SSL.
+
+### Pipelines CI/CD (Arkad Platform: https://arkad.openlab.uninorte.edu.co )
+
+Diseño e implementación de pipelines de integración y despliegue continuo, incluyendo automatización de pruebas, manejo de múltiples entornos (desarrollo, staging y producción) y buenas prácticas de DevOps.
+
+### Machine Learning para optimización de recursos (DATA_ITN: https://github.com/CamiloDlRM/DATA_ITN.git )
+
+Desarrollo de modelos de clustering aplicados a datasets gubernamentales, con procesamiento de datos a gran escala y análisis de patrones.
+
+### Backend con integración de IA (IA_TEACH_FREPO: git@github.com:CamiloDlRM/AI_TEACH_FREPO.git )
+
+Desarrollo de APIs backend con integración de modelos de IA, utilizando Python, FastAPI y servicios cloud, con enfoque en escalabilidad y mantenibilidad.
 
 ---
 
-⭐️ *La mayoría de mis proyectos son privados o parte de colaboraciones académicas. Si estás interesado en conocer más detalles sobre mi trabajo, no dudes en contactarme.*
+## Contacto
+
+* Email: [camilodelarosamovilla@gmail.com](mailto:camilodelarosamovilla@gmail.com)
+* LinkedIn: [https://linkedin.com/in/camilo-de-la-rosa-movilla-7824ab318](https://linkedin.com/in/camilo-de-la-rosa-movilla-7824ab318)
+* Ubicación: Barranquilla, Colombia
+
+---
+
+## Aprendizaje continuo
+
+Actualmente profundizando en:
+
+* MLOps y despliegue de modelos en producción
+* Arquitecturas cloud-native
+* Kubernetes avanzado
+* Big Data Engineering
+
+---
+
+*Algunos de mis proyectos son privados o forman parte de colaboraciones académicas. Si quieres conocer más detalles o ver ejemplos concretos, puedes escribirme sin problema.*
