@@ -79,7 +79,7 @@ Diseño e implementación de pipelines de integración y despliegue continuo, in
 
 Desarrollo de modelos de clustering aplicados a datasets gubernamentales, con procesamiento de datos a gran escala y análisis de patrones.
 
-### Backend con integración de IA (IA_TEACH_FREPO: git@github.com:CamiloDlRM/AI_TEACH_FREPO.git )
+### Backend con integración de IA (IA_TEACH_FREPO: https://github.com/CamiloDlRM/AI_TEACH_FREPO.git )
 
 Desarrollo de APIs backend con integración de modelos de IA, utilizando Python, FastAPI y servicios cloud, con enfoque en escalabilidad y mantenibilidad.
 
