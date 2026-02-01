@@ -69,7 +69,7 @@ Incluye definición de VPC, subredes públicas y privadas, gateways, reglas de r
 
 ### Plataforma de hosting automatizado (testing_hosting: https://virtual.roblehosting.site )
 
-Sistema para el despliegue automático de proyectos académicos usando Python y contenedores, con gestión centralizada de dominios y certificados SSL.
+Sistema para el despliegue automático de proyectos académicos usando Python, contenedores Y el software Coolify, con gestión centralizada de dominios y certificados SSL.
 
 ### Pipelines CI/CD (Arkad Platform: https://arkad.openlab.uninorte.edu.co )
 
@@ -79,7 +79,7 @@ Diseño e implementación de pipelines de integración y despliegue continuo, in
 
 Desarrollo de modelos de clustering aplicados a datasets gubernamentales, con procesamiento de datos a gran escala y análisis de patrones.
 
-### Backend con integración de IA (IA_TEACH_FREPO: https://github.com/CamiloDlRM/AI_TEACH_FREPO.git )
+### Backend con integración de IA (IA_TEACH_FREPO: https://github.com/CamiloDlRM/AI_TEACH_FREPO.git y IA_TEACH_BACK & IA_TEACH_FRONT : https://github.com/CamiloDlRM/IA_Teach_API.git & https://github.com/CamiloDlRM/IA_Teach_Front.git )
 
 Desarrollo de APIs backend con integración de modelos de IA, utilizando Python, FastAPI y servicios cloud, con enfoque en escalabilidad y mantenibilidad.
 
